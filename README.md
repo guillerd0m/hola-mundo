@@ -1,4 +1,4 @@
-# H ola Mundo
+# Hola Mundo
 Mi primer repositorio.
 
 Autor: Guillermo Dominguez.
